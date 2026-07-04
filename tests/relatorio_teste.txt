@@ -1,0 +1,11 @@
+============================================================
+DATA INSIGHT COPILOT - SELF TEST
+04/07/2026 10:35:00
+============================================================
+
+[OK] src.config
+[OK] src.data_loader
+[OK] src.profiler
+[OK] src.charts
+[OK] src.ai_engine
+[OK] src.logger
