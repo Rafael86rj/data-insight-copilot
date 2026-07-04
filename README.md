@@ -55,25 +55,25 @@ Todo o processamento ocorre localmente utilizando o **Ollama**, preservando a pr
 
 ## Tela Inicial
 
-> *(Adicionar imagem posteriormente)*
+> ![Tela Inicial](images/tela_inicial.png)
 
 ---
 
 ## Profiling
 
-> *(Adicionar imagem posteriormente)*
+> ![Perfilamento](images/perfilamento.png)
 
 ---
 
 ## Visualizações
 
-> *(Adicionar imagem posteriormente)*
+> ![Visualizações](images/visualizacoes.png)
 
 ---
 
 ## Insights da IA
 
-> *(Adicionar imagem posteriormente)*
+> ![Insights da IA](images/ia.png)
 
 ---
 
