@@ -21,3 +21,6 @@ output/
 # Scripts auxiliares
 run.bat
 setup.bat
+
+
+tests/relatorio_teste.txt
